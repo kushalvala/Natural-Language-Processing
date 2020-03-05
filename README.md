@@ -1,2 +1,3 @@
-# natural_language_processing
-Working of NLTK, SpaCy 
+# NLP with NLTK and SpaCy
+
+Codes related to basic NLP Task in NLTK and SpaCy
